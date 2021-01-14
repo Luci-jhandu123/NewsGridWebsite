@@ -41,9 +41,9 @@
     border: #444 dotted 1px;
     padding-bottom: 1rem;
   }
-  #showcase .showcase-container {
+/*   #showcase .showcase-container {
     height: 80vh;
-  }
+  } */
 
   .page-container {
     grid-template-columns: 1fr;
